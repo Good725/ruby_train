@@ -18,8 +18,6 @@ If you're already an experienced programmer in at least one language, I recommen
 
 Since you're going to be forking this repository, you'll need to synchronize your repo with mine as I continue to add new content.
 
-1. [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
-2. [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 
 Read the above two links if you need more information. If not, please do the following commands:
 
